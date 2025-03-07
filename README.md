@@ -1,7 +1,3 @@
-Here's a well-structured **GitHub README** for your **E-commerce Website** project. It highlights the technologies used, features, installation steps, and more.  
-
----
-
 # 🛒 E-commerce Website  
 
 This is a **fully functional E-commerce website** built using **Spring Boot, Thymeleaf, and Hibernate/JPA**. It provides a seamless shopping experience, allowing users to browse products, add them to their cart, and place orders.  
@@ -74,5 +70,4 @@ mvn spring-boot:run
 This project is **open-source** and available under the **MIT License**.
 
 ---
-
-This README provides a **professional overview** of your project and makes it **easy for others** to understand and contribute. Let me know if you'd like any modifications! 🚀
+Let me know if you'd like any modifications! 🚀
