@@ -4,8 +4,8 @@ FROM eclipse-temurin:17-jdk
 # Set the working directory in the container
 WORKDIR /app
 
-# Copy the project's JAR file into the container
-COPY target/*.jar app.jar
+# Copy the JAR file with the correct name
+COPY target/deploy-ecommerce.jar app.jar
 
 # Expose the application port (same as in application.properties)
 EXPOSE 8080
